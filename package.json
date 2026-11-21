@@ -1,0 +1,9 @@
+﻿{
+  "name": "taller-supletorio-arquitectura-juan-david-vergara",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/infraestructura/entrada/http/servidor.js",
+    "demo": "node src/infraestructura/entrada/consola/demo.js"
+  }
+}
