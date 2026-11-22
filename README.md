@@ -1,5 +1,8 @@
 ﻿# Taller supletorio · Caso B · Juan David Vergara Ruiz
 
+# LINK VIDEO: https://drive.google.com/file/d/105wUSjZd0yPGZxJrY2Z8vtOqcdrigTqX/view?usp=sharing
+
+
 ## Parte 1 · Principios
 
 | Principio violado | Líneas del código original | Qué pasa hoy (consecuencia concreta en este caso) | Cómo lo resolviste en tu código (archivo y clase) |
